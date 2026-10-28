@@ -1,0 +1,12 @@
+path: data/yolo
+
+train: images/train
+val: images/val
+
+names:
+  0: C2
+  1: C3
+  2: C4
+  3: C5
+  4: C6
+  5: C7
