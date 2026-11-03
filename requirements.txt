@@ -1,0 +1,8 @@
+matplotlib==3.11.2
+numpy==2.5.4
+opencv_python==5.0.0.93
+Pillow==13.0.0
+streamlit==1.66.1
+torch==2.6.0+cu124
+tqdm==4.70.1
+ultralytics==8.4.190
