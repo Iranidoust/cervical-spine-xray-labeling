@@ -16,9 +16,11 @@ def main():
         imgsz=640,
         batch=4,
         device=0 if torch.cuda.is_available() else "cpu",
-        workers=2,  # Simplest option for Windows debugging
+        workers=4,  # Simplest option for Windows debugging
+        patience=20,
+        optimizer="AdamW",
         project="runs",
-        name="cervical_test",
+        name="cervical_segmentation",
     )
 
 
