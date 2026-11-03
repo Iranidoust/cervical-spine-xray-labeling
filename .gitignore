@@ -2,3 +2,34 @@
 /runs
 yolo11n-seg.pt
 yolo11s-seg.pt
+
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Dataset
+data/raw/
+data/yolo/
+
+# Model weights
+*.pt
+*.pth
+models/
+
+# Training outputs
+runs/
+wandb/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
