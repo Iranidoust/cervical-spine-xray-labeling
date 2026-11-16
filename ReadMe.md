@@ -25,7 +25,8 @@ The application allows users to upload an X-ray image, run inference using a tra
 
 ## Video 
 
-[Uploading streamlit-app-2026-11-16-10-22-24.webm…]()
+[Cervical-demo.webm](https://github.com/user-attachments/assets/b92f1afb-6f19-4faa-8949-afbd8aadbb8d)
+
 
 ---
 
