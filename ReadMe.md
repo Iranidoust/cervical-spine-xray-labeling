@@ -22,6 +22,11 @@ The application allows users to upload an X-ray image, run inference using a tra
 ## Prediction Results
 ![Prediction Results](docs/images/vertebra-overlay.png)
 ![Prediction Results](docs/images/prediction-result.png)
+
+## Video 
+
+[Uploading streamlit-app-2026-11-16-10-22-24.webm…]()
+
 ---
 
 ## Features
